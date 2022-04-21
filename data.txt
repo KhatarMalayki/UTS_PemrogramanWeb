@@ -1,0 +1,1 @@
+{"Nama_Wilayah":"DKI Jakarta","Jumlah_Positif":"192022","Jumlah_Dirawat":"1022","Jumlah_Sembuh":"50945","Jumlah_Meninggal":"20765","Nama_Operator":"Mohamad Khatar Malayki","NIM_Mahasiswa":"191011401166"}
